@@ -12,3 +12,4 @@ I chose three colours. Each one of it symbolizes warm energy, compassion and bol
 The logo we chose a shopping bag
 symbolizes the growth of our business. It means to not stop growing, and unlimited possibilities. 
 In my activity page, it can show the parcel whether is packing, shipping or delivered. It has the tracking system shows how soon you will get your parcel.
+The brand colour it has 3 colours which is gives like luxury feel. Customers will feel pleasant with the colours and buy more of our products
