@@ -18,6 +18,4 @@ Ivory fosters tranquility, flamingo encourages compassion, and wax flower adds v
 The shopping bag symbol, is a great way to convey growth and unlimited possibilities
 It fits well with the e-commerce theme and makes the app instantly recognizable.
 I created the cover page for our mobile manual cover
-I did about us which is about our product 
-listed the product we sell 
-i did introduction
+
