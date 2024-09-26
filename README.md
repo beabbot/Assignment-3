@@ -20,3 +20,4 @@ It fits well with the e-commerce theme and makes the app instantly recognizable.
 I created the cover page for our mobile manual cover
 I did about us which is about our product 
 listed the product we sell 
+i did introduction
