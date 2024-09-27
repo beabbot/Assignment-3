@@ -21,3 +21,4 @@ I created the cover page for our mobile manual cover
 about us page 
 okayy
 i did ss for from the manual
+explain about purpose and function
