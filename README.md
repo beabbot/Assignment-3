@@ -23,3 +23,4 @@ okayy
 i did ss for from the manual
 explain about purpose and function
 gonna do whislist
+explain more about whistlist
