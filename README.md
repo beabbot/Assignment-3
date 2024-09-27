@@ -22,3 +22,4 @@ about us page
 okayy
 i did ss for from the manual
 explain about purpose and function
+gonna do whislist
